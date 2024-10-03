@@ -27,6 +27,40 @@ Make sure you have the following installed on your machine:
 
 - Node.js (version 14 or higher)
 - npm (Node package manager)
+- 
+/virtual-book-library
+├── /public
+│   ├── index.html
+│   └── favicon.ico
+├── /src
+│   ├── /components
+│   │   ├── BookCard
+│   │   │   ├── index.js
+│   │   │   └── index.css
+│   │   ├── BookList
+│   │   │   ├── index.js
+│   │   │   └── index.css
+│   │   └── SearchBar
+│   │       ├── index.js
+│   │       └── index.css
+│   ├── /context
+│   │   └── LibraryContext.js
+│   ├── /pages
+│   │   ├── BookDetailsPage
+│   │   │   ├── index.js
+│   │   │   └── index.css
+│   │   ├── HomePage
+│   │   │   ├── index.js
+│   │   │   └── index.css
+│   │   └── MyLibraryPage
+│   │       ├── index.js
+│   │       └── index.css
+│   ├── /services
+│   │   └── books.json
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+└── package.json
 
 ### Installation
 
