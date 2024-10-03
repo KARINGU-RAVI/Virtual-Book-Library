@@ -1,0 +1,92 @@
+[
+  {
+      "id": "1",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "rating": 4.8,
+      "description": "A novel about the serious issues of rape and racial inequality.",
+      "publicationYear": 1960
+  },
+  {
+      "id": "2",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "rating": 4.7,
+      "description": "A story about a totalitarian regime that uses surveillance to control its citizens.",
+      "publicationYear": 1949
+  },
+  {
+      "id": "3",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "rating": 4.6,
+      "description": "A romantic novel that critiques the British landed gentry at the end of the 18th century.",
+      "publicationYear": 1813
+  },
+  {
+      "id": "4",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "rating": 4.4,
+      "description": "A novel about the American dream and the disillusionment that comes with it.",
+      "publicationYear": 1925
+  },
+  {
+      "id": "5",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "rating": 4.2,
+      "description": "A story about the quest for revenge against the white whale Moby Dick.",
+      "publicationYear": 1851
+  },
+  {
+      "id": "6",
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "genre": "Historical",
+      "rating": 4.3,
+      "description": "A historical novel that intertwines the lives of several characters during the Napoleonic Wars.",
+      "publicationYear": 1869
+  },
+  {
+      "id": "7",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "rating": 4.1,
+      "description": "A story about a teenager's disillusionment and search for identity.",
+      "publicationYear": 1951
+  },
+  {
+      "id": "8",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "rating": 4.5,
+      "description": "A fantasy novel about the journey of Bilbo Baggins to help a group of dwarves reclaim their home.",
+      "publicationYear": 1937
+  },
+  {
+      "id": "9",
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "genre": "Dystopian",
+      "rating": 4.3,
+      "description": "A story about a future society where books are banned and 'firemen' burn any that are found.",
+      "publicationYear": 1953
+  },
+  {
+      "id": "10",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Adventure",
+      "rating": 4.4,
+      "description": "A novel about a shepherd's journey to discover his personal legend.",
+      "publicationYear": 1988
+  }
+]

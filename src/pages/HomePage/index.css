@@ -1,0 +1,50 @@
+.home-page {
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.book-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.book-item {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin: 15px;
+  padding: 15px;
+  width: 200px;
+  transition: transform 0.3s, box-shadow 0.3s;
+  text-align: center;
+}
+
+.book-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+button {
+  background-color: #00ff11;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #00b327;
+}
+
+.Main_Heading{
+  color: red;
+}
