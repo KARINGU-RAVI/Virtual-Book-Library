@@ -32,7 +32,7 @@ Make sure you have the following installed on your machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KARINU-RAVI/virtual-book-library.git
+   git clone (https://github.com/KARINGU-RAVI/Virtual-Book-Library)
 
 2.cd virtual-book-library
 3. npm install
